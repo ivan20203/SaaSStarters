@@ -4,7 +4,7 @@ Favorite saasRepos
 - Wave https://github.com/thedevdojo/wave?tab=readme-ov-file
 - Payments : Paddle
 - Auth : Only Email set up. 
-- Website down, but its worth the repo download.
+- Website: https://wave.devdojo.com/
 - Notes: Laravel, MySQL
 
 ## nextjs-subscription-payments
